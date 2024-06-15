@@ -1,1 +1,4 @@
 Another notebook where I practice using pandas to play with dataframes. I've also used a sample dataset and performed few exercises on it. Attached is the dataset as well.
+
+for exercise 1 dataset used is named AAPL_data.csv
+for exercise 2 dataset used is named WHO-COVID-19-Canada.csv
